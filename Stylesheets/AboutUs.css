@@ -3,6 +3,7 @@
     height: 68vh;
     width: 100%;
     background-repeat: no-repeat;
+    background-size: cover;
 }
 .About-1-img{
     background-image: url("../images/about-1.jpg");
