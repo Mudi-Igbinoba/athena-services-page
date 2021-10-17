@@ -55,7 +55,7 @@ html, body {
     position: relative;
     z-index: 1;
     width: 818px;
-    background-image: url(../images/service-hero.jpg);
+    background-image: url(images/service-hero.jpg);
     transform: translateX(75px);
 }
 
@@ -324,7 +324,7 @@ html, body {
     }
 
     .services-hero-box{
-        background: url(../images/service-hero.jpg);
+        background: url(images/service-hero.jpg);
         background-repeat: no-repeat;
         background-size: cover;
     }
